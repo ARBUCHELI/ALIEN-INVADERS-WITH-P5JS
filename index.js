@@ -42,7 +42,7 @@ function draw() {
     fill('#c94c4c');
     textSize(50);
     text(
-      'Press any button to start protecting the planet Earth',
+      'Press any key to start protecting the planet Earth',
       width / 2,
       height / 2 + 50
     );
